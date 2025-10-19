@@ -1,0 +1,72 @@
+[
+  {
+    "company_name": "DataIQ Inc",
+    "domain": "dataiq.com",
+    "revenue": 75000000,
+    "industry": "Software",
+    "employee_count": 200,
+    "contacts": [
+      {
+        "name": "Sarah Green",
+        "title": "VP Data Science",
+        "email": "sarah@dataiq.com",
+        "linkedin": "linkedin.com/in/sarahgreen"
+      }
+    ],
+    "signals": {
+      "new_funding": true,
+      "recent_hiring": true
+    },
+    "source": [
+      "Crunchbase",
+      "Apollo"
+    ],
+    "funding_stage": "Series B",
+    "confidence": 0.6
+  },
+  {
+    "company_name": "FinWise Tech",
+    "domain": "finwise.ai",
+    "revenue": 40000000,
+    "industry": "FinTech",
+    "employee_count": 150,
+    "contacts": [
+      {
+        "name": "David Miller",
+        "title": "Head of AI",
+        "email": "david@finwise.ai",
+        "linkedin": "linkedin.com/in/davidm"
+      }
+    ],
+    "signals": {
+      "new_funding": false
+    },
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "company_name": "AutoAI Corp",
+    "domain": "autoai.com",
+    "funding_stage": "Seed",
+    "signals": {
+      "recent_hiring": false
+    },
+    "source": [
+      "Crunchbase"
+    ],
+    "confidence": 0.1
+  },
+  {
+    "company_name": "Daice Labs",
+    "domain": "",
+    "signals": {
+      "recent_hiring": true
+    },
+    "source": [
+      "SerpAPI"
+    ],
+    "confidence": 0.3
+  }
+]
